@@ -4,4 +4,10 @@ ahora vivo en australia y tengo 30 a;os
 
 naci en colombia
 
+<<<<<<< HEAD
 algo mas de mi, quiero llevar una vida saludable.
+=======
+algo mas de mi, quiero llevar una vida saludable.
+
+ma;ana seguire estudiando
+>>>>>>> cabecera
